@@ -1,16 +1,42 @@
-# noteit
+# NoteIt
 
-A new Flutter project.
+**Your thoughts, organized beautifully.**
 
-## Getting Started
+## What is NoteIt?
 
-This project is a starting point for a Flutter application.
+NoteIt is a simple, elegant note-taking app for Android that helps you capture and organize your ideas, tasks, and important information. With color-coded categories and an intuitive interface, staying organized has never been easier.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✨ **Clean, Intuitive Design** - Focus on your notes, not the interface
+🎨 **Color-Coded Categories** - Visually distinguish between Work, Personal, and Study notes
+🔍 **Quick Filtering** - Find exactly what you need with category filters
+📝 **Full Note Management** - Create, view, edit, and delete notes with ease
+📱 **Android Exclusive** - Crafted specifically for Android devices
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Important Notes
+
+⚠️ **Session-Based Storage** - Please note that NoteIt currently doesn't save notes between app restarts. Your notes will remain available only during the active session.
+
+## How to Use
+
+### Creating a Note
+1. Tap the "+" button in the bottom right
+2. Enter a title and content
+3. Select a category (Work, Personal, or Study)
+4. Hit "Save"
+
+### Viewing Note Details
+Simply tap on any note card to view its complete contents.
+
+### Editing & Deleting
+Each note card has convenient edit and delete buttons, giving you complete control.
+
+### Filtering Notes
+Use the category dropdown in the top-right corner to filter notes by:
+- All
+- Work
+- Personal
+- Study
+
+Made with ❤️ using Flutter
